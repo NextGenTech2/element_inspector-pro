@@ -9,10 +9,10 @@ A premium, state-of-the-art Google Chrome extension designed for QA engineers an
 Here is a look at the modern, dark-themed user interface:
 
 ### Main Interface & Element Tree
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](ElementInspectorPro/screenshots/main_interface.png)
 
 ### Selected Elements & Generated Code Snippets
-![Selected Elements and Code Generation](screenshots/selected_elements_view.png)
+![Selected Elements and Code Generation](ElementInspectorPro/screenshots/selected_elements_view.png)
 
 ---
 
@@ -37,7 +37,7 @@ Here is a look at the modern, dark-themed user interface:
 ## 📦 Installation
 
 1. **Download/Clone this Repository**:
-   - Alternatively, you can download the pre-packaged **[ElementInspectorPro.zip](../ElementInspectorPro.zip)** directly.
+   - Alternatively, you can download the pre-packaged **[ElementInspectorPro.zip](./ElementInspectorPro.zip)** directly.
    - Or clone the repository using Git:
      ```bash
      git clone https://github.com/nirakumar/ElementInspectorPro.git
@@ -53,7 +53,7 @@ Here is a look at the modern, dark-themed user interface:
 3. **Verify the Icon**:
    - You should see the custom magnifying glass target icon added to your extensions bar:
    
-   ![Extension Logo](screenshots/extension_icon_logo.png)
+   ![Extension Logo](ElementInspectorPro/screenshots/extension_icon_logo.png)
 
 ---
 
