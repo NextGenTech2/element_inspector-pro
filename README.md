@@ -91,6 +91,6 @@ Here is a look at the modern, dark-themed user interface:
 
 ---
 
-## 📄 License
+## 📄  License / Copyright
 
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+Copyright © 2026 Niraj Kumar. All rights reserved. Proprietary and confidential.
